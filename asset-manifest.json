@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/last-chance-app/static/css/main.24d97c0a.css",
+    "main.js": "/last-chance-app/static/js/main.c089db69.js",
+    "static/js/453.41df2b65.chunk.js": "/last-chance-app/static/js/453.41df2b65.chunk.js",
+    "index.html": "/last-chance-app/index.html",
+    "main.24d97c0a.css.map": "/last-chance-app/static/css/main.24d97c0a.css.map",
+    "main.c089db69.js.map": "/last-chance-app/static/js/main.c089db69.js.map",
+    "453.41df2b65.chunk.js.map": "/last-chance-app/static/js/453.41df2b65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d97c0a.css",
+    "static/js/main.c089db69.js"
+  ]
+}
